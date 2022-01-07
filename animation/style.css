@@ -6,7 +6,7 @@ body{
     background:#1a1a1a;
     height:100vh;
     font-family:'Atkinson Hyperlegible', sans-serif;
-    font-size: 4em;
+    font-size: 2em;
 }
 h1 {
     animation: animate 2s ease-in-out forwards;
